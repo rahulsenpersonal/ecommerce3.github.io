@@ -4,4 +4,4 @@
  
  
 ### Home page
-![1](https://github.com/rahulsenpersonal/ecommerce3.github.io/blob/main/img/main.jpg)
+![1] https://github.com/rahulsenpersonal/ecommerce3.github.io/blob/main/img/main.jpg
